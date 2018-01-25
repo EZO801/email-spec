@@ -1,5 +1,5 @@
-
 [![Build Status](https://secure.travis-ci.org/email-spec/email-spec.png)](http://travis-ci.org/email-spec/email-spec)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Femail-spec.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Femail-spec?ref=badge_shield)
 
 ## Email Spec
 
@@ -344,3 +344,7 @@ assert_must deliver_to("jojo@yahoo.com"), email
 Ben Mabey, Aaron Gibralter, Mischa Fierer
 
 Please see [Changelog.md](Changelog.md) for upcoming changes and other contributors.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Femail-spec.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Femail-spec?ref=badge_large)
